@@ -1,5 +1,5 @@
 # ArrayList
-### List > ArrayList
+### Collection.List > ArrayList
 
 ArrayList는 list 인터페이스를 구현하기 때문에 
 **데이터의 저장 순서가 유지되며 중복이 허용됩니다.**   

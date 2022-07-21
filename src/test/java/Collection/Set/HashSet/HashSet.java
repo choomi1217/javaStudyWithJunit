@@ -1,4 +1,4 @@
-package Set.HashSet;
+package Collection.Set.HashSet;
 
 import org.junit.jupiter.api.BeforeEach;
 

@@ -1,11 +1,7 @@
-package List.ArrayList;
+package Collection.List.ArrayList;
 
-import org.assertj.core.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.ValueSource;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -46,7 +42,7 @@ public class ArrayListTests {
         assertThat(arrayList.contains(100)).isTrue();
     }
 
-    @DisplayName(" 3. ArrayList.sort(List<T> list) ")
+    @DisplayName(" 3. ArrayList.sort(Collection.List<T> list) ")
     @Test
     void arrayListSortTest(int ints) {
         ArrayList<Integer> sortedArrList = new ArrayList<Integer>(Arrays.asList(1,2,3));

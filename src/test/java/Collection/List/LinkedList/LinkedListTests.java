@@ -1,4 +1,4 @@
-package List.LinkedList;
+package Collection.List.LinkedList;
 
 import org.junit.jupiter.api.BeforeEach;
 

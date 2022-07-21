@@ -1,8 +1,8 @@
-package Map.TreeMap;
+package Collection.Set.TreeSet;
 
 import org.junit.jupiter.api.BeforeEach;
 
-public class TreeMapTests {
+public class TreeSet {
 
     @BeforeEach
     void setUpAndAdd() {

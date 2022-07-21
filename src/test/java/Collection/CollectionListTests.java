@@ -1,3 +1,5 @@
+package Collection;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 
@@ -10,7 +12,7 @@ import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
 public class CollectionListTests {
 
-    // Collection <- List <- ArrayList, LinkedList, stack, vector ...
+    // Collection <- Collection.List <- ArrayList, LinkedList, stack, vector ...
 
     private Vector<String> vector;
     private ArrayList<String> arrayList;

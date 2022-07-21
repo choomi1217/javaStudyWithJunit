@@ -1,4 +1,4 @@
-package List.Vector;
+package Collection.List.Vector;
 
 import org.junit.jupiter.api.BeforeEach;
 

@@ -1,4 +1,4 @@
-package Map.HashMap;
+package Collection.Map.HashMap;
 
 import org.junit.jupiter.api.BeforeEach;
 

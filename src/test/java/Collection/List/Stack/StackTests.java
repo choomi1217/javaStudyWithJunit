@@ -1,4 +1,4 @@
-package List.Stack;
+package Collection.List.Stack;
 
 import org.junit.jupiter.api.BeforeEach;
 
